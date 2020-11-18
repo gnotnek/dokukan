@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>DOKUKAN</h2>
+    <H1>DOKUKAN</H1>
 </body>
 </html>
